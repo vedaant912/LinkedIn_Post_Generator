@@ -2,7 +2,8 @@
 
 Generate **LinkedIn posts** based on topic, length, and language, leveraging past writing styles for personalized content.
 
-![alt text](./LinkedIn_Post_Gen_Streamlit.png)
+<img src="./LinkedIn_Post_Gen_Streamlit.png" alt="Description" width="500"/>
+
 
 ## 🔹 Features  
 ✅ AI-powered post generation based on historical writing patterns  
@@ -46,7 +47,7 @@ Start the Streamlit app
 ```
 streamlit run main.py
 ```
-
+---
 ## 📌 Usage  
 
 Follow these steps to generate a LinkedIn post:  
@@ -60,3 +61,13 @@ Follow these steps to generate a LinkedIn post:
 4️⃣ Click **Generate**, and the app will create a **well-structured LinkedIn post** instantly!  
 
 ---
+
+## 🛠 Tech Stack  
+
+| Technology         | Description                              |
+|--------------------|------------------------------------------|
+| **Python** 🐍     | Backend & logic                          |
+| **Streamlit** 🎨  | Interactive frontend                     |
+| **Groq API** 🤖   | AI-powered text generation               |
+| **NLP Techniques** 🧠 | Post enrichment & writing style adaptation |
+
